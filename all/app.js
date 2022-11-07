@@ -6,7 +6,7 @@ const header = document.createElement("header");
 header.innerHTML = `
 <div class="header-top">
         <div class="logo">
-            <h2>ML</h2>
+            <h2>Neeko</h2>
             <p>Store</p>
         </div>
         <div class="search-box">
@@ -114,16 +114,16 @@ footer.innerHTML = `
 
     <div class="icon-group">
         <i class="fas fa-map-marker-alt"></i>
-        <div class="text">123/321 đường số 1, quận Bình Chánh</div>
+        <div class="text">123/321 đường 3/2, phường Xuân Khánh, quận Ninh Kiều</div>
     </div>
 
     <div class="icon-group">
         <i class="fas fa-comments"></i>
-        <div class="text">Nguyễn Minh Luận <br>20122981</div>
-        <div class="text">Nguyễn Trường Tuấn Kiệt <br>20048301</div>
+        <div class="text">Nguyễn Hồng Phi <br>B2014597</div>
+        <div class="text">... <br>...</div>
     </div>
 
-    <div class="footer">ML Store uy tín, chất lượng, nhiệt tình</div>
+    <div class="footer">Neeko Store uy tín, chất lượng, nhiệt tình</div>
 </div>
 `
 
