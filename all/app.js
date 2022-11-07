@@ -33,7 +33,7 @@ header.innerHTML = `
             <a href="../notification/notification.html"><i class="fas fa-bell"></i></a>
             <a href="../cart/cart.html"><i class="fas fa-shopping-cart" id="cart"><div class="count">1</div></i></a>
             <a href="../login/login.html" class="image-user">
-                <img src="../image/avatar.jfif" alt="">
+                <img src="../image/clients.png" alt="">
             </a>
         </div>
         
